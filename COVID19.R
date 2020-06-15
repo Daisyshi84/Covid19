@@ -16,7 +16,6 @@ str(covid19)
 
 
 #Capitalize the first letter of both words in a two word string
-name <- c("395 post road, apt 2225", "state", "final count", "good morning everyone! i am here today to show you how to capitalize the first letter")
 
 Caps <- function(x) {
   s <- strsplit(x, " ")[[1]]
