@@ -1,5 +1,5 @@
 # Covid19
-death rate visualization of Covid19
+# death rate visualization of Covid19
 
 library(COVID19)
 library(Hmisc)
